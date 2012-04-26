@@ -1,0 +1,81 @@
+This snapshot was automatically generated on
+Fri, 16 Sep 2011 16:02:57 +0000
+
+Version: 5.3.8
+Branch: HEAD
+Build: x64\Release_TS
+
+Built-in Extensions
+===========================
+Core
+bcmath
+calendar
+com_dotnet
+ctype
+date
+ereg
+filter
+ftp
+hash
+iconv
+json
+mcrypt
+SPL
+odbc
+pcre
+Reflection
+session
+standard
+mysqlnd
+tokenizer
+zip
+zlib
+libxml
+dom
+PDO
+Phar
+SimpleXML
+wddx
+xml
+xmlreader
+xmlwriter
+mhash
+
+
+Dependency information:
+Module: php_curl.dll
+===========================
+	ssleay32.dll
+	libeay32.dll
+
+Module: php_enchant.dll
+===========================
+	libenchant.dll
+
+Module: php_intl.dll
+===========================
+	icuuc46.dll
+	icuin46.dll
+
+Module: php_ldap.dll
+===========================
+	ssleay32.dll
+	libeay32.dll
+
+Module: php_openssl.dll
+===========================
+	ssleay32.dll
+	libeay32.dll
+
+Module: php_pgsql.dll
+===========================
+	libpq.dll
+
+Module: php_snmp.dll
+===========================
+	libeay32.dll
+
+Module: php_pdo_pgsql.dll
+===========================
+	libpq.dll
+
